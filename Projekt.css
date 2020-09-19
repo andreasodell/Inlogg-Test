@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+.logoDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 0px;
+}
+
+.logoDiv h1 {
+  margin-top: 35px;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+.logInForm {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border: solid gray 1px;
+  padding: 45px 15px;
+  margin-top: 10px;
+}
